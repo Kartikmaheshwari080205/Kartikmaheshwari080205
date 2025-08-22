@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Web Development and Machine Learning
 - 📫 How to reach me: kartik080205@gmail.com
 - 🚀 [LinkedIn](https://www.linkedin.com/in/kartikm08/)
+- 🏆 [LeetCode](https://leetcode.com/u/Dawgcode/)
+- 🏅 [Codeforces](https://codeforces.com/profile/Dogforces)
 
 ---
 
