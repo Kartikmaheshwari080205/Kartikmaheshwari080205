@@ -6,9 +6,6 @@
 
 ---
 
-### GitHub Stats
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikMaheshwari&show_icons=true&theme=dark)
-
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikMaheshwari&layout=compact&theme=dark)
 
