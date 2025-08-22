@@ -13,6 +13,11 @@
 
 ---
 
+### GitHub Contributions
+![Kartik's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kartikmaheshwari080205&theme=dark)
+
+---
+
 ### Languages, Frameworks & Tools
 
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
