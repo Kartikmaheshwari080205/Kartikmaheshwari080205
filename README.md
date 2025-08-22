@@ -8,13 +8,18 @@
 
 ---
 
-### GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikmaheshwari080205&layout=compact&theme=dark)
+### GitHub Stats & Contributions
 
----
-
-### GitHub Contributions
-![Kartik's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kartikmaheshwari080205&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikmaheshwari080205&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikmaheshwari080205&theme=dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
