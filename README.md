@@ -1,4 +1,4 @@
-# Hi there, I'm Kartik Maheshwari 👋
+# Hi there, I'm Kartik Maheshwari 👋 ![Profile Views](https://komarev.com/ghpvc/?username=Kartikmaheshwari080205&style=flat-square&color=blue)
 
 - 🌱 I’m currently learning Web Development and Machine Learning
 - 📫 How to reach me: kartik080205@gmail.com
@@ -7,7 +7,6 @@
 ---
 
 ### GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Kartikmaheshwari080205&style=flat-square&color=blue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikmaheshwari080205&layout=compact&theme=dark)
 
 ---
