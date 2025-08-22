@@ -1,7 +1,7 @@
 # Hi there, I'm Kartik Maheshwari 👋
 
 - 🌱 I’m currently learning Web Development and Machine Learning
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: kartik080205@gmail.com
 - 🚀 [LinkedIn](https://www.linkedin.com/in/kartikm08/)
 
 ---
