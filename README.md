@@ -6,7 +6,8 @@
 
 ---
 
-### Most Used Languages
+### GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Kartikmaheshwari080205&style=flat-square&color=blue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikmaheshwari080205&layout=compact&theme=dark)
 
 ---
