@@ -1,6 +1,6 @@
 # Hi there, I'm Kartik Maheshwari 👋 ![Profile Views](https://komarev.com/ghpvc/?username=Kartikmaheshwari080205&style=flat-square&color=blue)
 
-- 🌱 I’m currently learning Web Development and Machine Learning
+- 🌱 I’m currently learning System Design, Web Development and Machine Learning
 - 📫 How to reach me: kartik080205@gmail.com
 - 🚀 [LinkedIn](https://www.linkedin.com/in/kartikm08/)
 - 🏆 [LeetCode](https://leetcode.com/u/Dawgcode/)
